@@ -18,8 +18,8 @@ lang: en
 icon: ⚛️
 apple_touch_icon:
 
-url: https://zahraa-abdallah.github.io # your exact site URL
-baseurl: "" # MUST BE EMPTY - remove "/al-folio"
+url: https://zahraa-abdallah.github.io
+baseurl: ""
 last_updated: true
 impressum_path:
 back_to_top: true
