@@ -29,6 +29,6 @@ latest_posts:
 
 I am an Associate Professor in Data Science at the University of Bristol. I hold a PhD from Monash University (awarded the Mollie Holman Medal).
 
-**Research Focus:** Time series analysis, adaptive learning, explainable AI, and multimodal learning in dynamic environments.
+**Research Focus:** Time series analysis, Stream mining, adaptive learning, explainable AI, and multimodal learning in dynamic environments.
 
 **Key Applications:** Healthcare (Type 1 diabetes, cancer, Alzheimer’s biomarkers, Parkinson’s EEG analysis), finance, and insurance.
